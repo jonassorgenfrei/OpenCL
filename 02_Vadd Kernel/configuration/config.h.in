@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define Vadd_Kernel_VERSION_MAJOR @Vadd_Kernel_VERSION_MAJOR@
+#define Vadd_Kernel_VERSION_MINOR @Vadd_Kernel_VERSION_MINOR@
