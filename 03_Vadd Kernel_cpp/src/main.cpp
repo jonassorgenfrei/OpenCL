@@ -3,7 +3,7 @@
  *
  * Element wise addition of two vectors (c = a + b | d = c + e | f = d + g | return f)
  *
- * In plain C code style
+ * In C++ code style
  *
  */
 
